@@ -1,0 +1,15 @@
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\bin\Debug\net10.0\MyFirstConsoleApp1.exe
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\bin\Debug\net10.0\MyFirstConsoleApp1.deps.json
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\bin\Debug\net10.0\MyFirstConsoleApp1.runtimeconfig.json
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\bin\Debug\net10.0\MyFirstConsoleApp1.dll
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\bin\Debug\net10.0\MyFirstConsoleApp1.pdb
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.AssemblyInfo.cs
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.sourcelink.json
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.dll
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\refint\MyFirstConsoleApp1.dll
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.pdb
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\MyFirstConsoleApp1.genruntimeconfig.cache
+C:\Users\setar\OneDrive\Desktop\C# FirstProject\MyFirstConsoleApp1\obj\Debug\net10.0\ref\MyFirstConsoleApp1.dll
